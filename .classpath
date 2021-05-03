@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/ORCA/workspace_java7/AntSpringMVC/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/ORCA/workspace_java7/AntSpringMVC/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/ORCA/workspace_java7/AntSpringMVC/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/ORCA/workspace_java7/AntSpringMVC/lib/logback-classic-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/ORCA/workspace_java7/AntSpringMVC/lib/logback-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/ORCA/workspace_java7/AntSpringMVC/lib/slf4j-api-1.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/ORCA/workspace_java7/AntSpringMVC/lib/spring-aop-4.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/ORCA/workspace_java7/AntSpringMVC/lib/spring-beans-4.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/ORCA/workspace_java7/AntSpringMVC/lib/spring-context-4.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/ORCA/workspace_java7/AntSpringMVC/lib/spring-core-4.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/ORCA/workspace_java7/AntSpringMVC/lib/spring-expression-4.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/ORCA/workspace_java7/AntSpringMVC/lib/spring-web-4.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/ORCA/workspace_java7/AntSpringMVC/lib/spring-webmvc-4.1.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/ORCA/workspace_java7/AntSpringMVC/lib/validation-api-2.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/ORCA/workspace_java7/AntSpringMVC/lib/javax.servlet-api-4.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
